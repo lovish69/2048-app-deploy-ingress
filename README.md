@@ -130,4 +130,8 @@ kubectl get deployment -n kube-system aws-load-balancer-controller
 ![Screenshot (78)](https://github.com/user-attachments/assets/36731584-c417-4381-abf2-50b135126ab5)
 
 
+## Deployment
+![Screenshot (79)](https://github.com/user-attachments/assets/24415004-0f70-4116-b4c0-df8a3d3c72bf)
+
+
 
